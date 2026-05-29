@@ -54,5 +54,5 @@ Evaluate which AI model delivers the best balance of performance and cost using 
 
 ## Files
 
-- AI_Model_Cost_Effectiveness_Dashboard.pbix
-- data/AI_Model_Cost_Effectiveness.xlsx
+- [Power BI Dashboard](AI_Model_Cost_Effectiveness_Dashboard.pbix)
+- [Dataset](data/AI_Model_Cost_Effectiveness.xlsx)
