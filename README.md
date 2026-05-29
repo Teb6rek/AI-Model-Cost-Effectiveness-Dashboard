@@ -56,3 +56,12 @@ Evaluate which AI model delivers the best balance of performance and cost using 
 
 - [Power BI Dashboard](AI_Model_Cost_Effectiveness_Dashboard.pbix)
 - [Dataset](data/AI_Model_Cost_Effectiveness.xlsx)
+
+## Data Source
+
+The model pricing, benchmark, latency, throughput, context window, and usage metrics used in this dashboard were collected from OpenRouter's AI model comparison platform.
+
+Source:
+https://openrouter.ai/compare/anthropic/claude-opus-4.8-fast/google/gemini-3.5-flash/~openai/gpt-latest/x-ai/grok-4.3
+
+Data was used for educational and analytical purposes to compare the cost-effectiveness of leading enterprise AI models.
